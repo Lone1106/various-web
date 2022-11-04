@@ -1,0 +1,8 @@
+.field {
+	padding: 2.4rem;
+	display: flex;
+	flex-wrap: wrap;
+	gap: 2.4rem;
+	justify-content: flex-start;
+	align-items: center;
+}

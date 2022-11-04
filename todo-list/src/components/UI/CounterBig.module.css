@@ -1,0 +1,8 @@
+.counter {
+	font-size: 1.2rem;
+	font-weight: bold;
+	position: absolute;
+	top: -30px;
+	right: 15px;
+	color: black;
+}

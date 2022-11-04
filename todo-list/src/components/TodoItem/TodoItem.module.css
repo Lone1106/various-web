@@ -1,0 +1,11 @@
+.item {
+	margin-bottom: 1.2rem;
+	margin-top: 1.2rem;
+	font-family: sans-serif;
+	font-weight: 100;
+}
+
+.item:hover {
+	text-decoration: line-through;
+	cursor: pointer;
+}

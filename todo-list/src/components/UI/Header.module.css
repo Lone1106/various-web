@@ -1,0 +1,36 @@
+.header {
+	background-color: #5f3dc4;
+	min-width: 100%;
+	padding: 1rem 3rem;
+	color: #fff;
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+}
+
+.header h1 {
+	text-transform: uppercase;
+	letter-spacing: 1px;
+	font-weight: 100;
+}
+
+.clear {
+	background-color: #fff;
+	border: none;
+	font-size: 1.6rem;
+	color: #5f3dc4;
+	cursor: pointer;
+	padding: 0.4rem 1.6rem;
+	border-radius: 10px;
+	text-transform: uppercase;
+	transition: transform 0.2s;
+	margin-right: 2rem;
+}
+
+.clear:last-child {
+	margin-right: 0;
+}
+
+.clear:hover {
+	transform: scale(1.05, 1.05);
+}
